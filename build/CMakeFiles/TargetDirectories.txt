@@ -1,0 +1,5 @@
+/home/eric/CLionProjects/ProjectNexus/build/CMakeFiles/ProjectNexus.dir
+/home/eric/CLionProjects/ProjectNexus/build/CMakeFiles/edit_cache.dir
+/home/eric/CLionProjects/ProjectNexus/build/CMakeFiles/rebuild_cache.dir
+/home/eric/CLionProjects/ProjectNexus/build/CMakeFiles/ProjectNexus_autogen_timestamp_deps.dir
+/home/eric/CLionProjects/ProjectNexus/build/CMakeFiles/ProjectNexus_autogen.dir

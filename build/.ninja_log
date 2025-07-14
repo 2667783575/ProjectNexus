@@ -1,0 +1,12 @@
+# ninja log v6
+1	21	1752494078772269067	ProjectNexus_autogen/timestamp	faa83aa3995c4eee
+1	21	1752494078772269067	ProjectNexus_autogen/mocs_compilation.cpp	faa83aa3995c4eee
+1	21	1752494078772269067	/home/eric/CLionProjects/ProjectNexus/build/ProjectNexus_autogen/timestamp	faa83aa3995c4eee
+1	21	1752494078772269067	/home/eric/CLionProjects/ProjectNexus/build/ProjectNexus_autogen/mocs_compilation.cpp	faa83aa3995c4eee
+22	32	1752494078778347807	CMakeFiles/ProjectNexus.dir/ProjectNexus_autogen/mocs_compilation.cpp.o	b3f37daf5bfc7be2
+22	177	1752494078778155687	CMakeFiles/ProjectNexus.dir/src/main.cpp.o.ddi	fe8b11090f1b27dd
+177	180	1752494078936649653	CMakeFiles/ProjectNexus.dir/CXX.dd	d584b0a6582c2a5d
+177	180	1752494078936649653	/home/eric/CLionProjects/ProjectNexus/build/CMakeFiles/ProjectNexus.dir/CXXModules.json	d584b0a6582c2a5d
+177	180	1752494078936649653	CMakeFiles/ProjectNexus.dir/src/main.cpp.o.modmap	d584b0a6582c2a5d
+181	1674	1752494078936649653	CMakeFiles/ProjectNexus.dir/src/main.cpp.o	cbd2822c38d8104c
+1675	1851	1752494080431233112	ProjectNexus	ecdf65a817025271

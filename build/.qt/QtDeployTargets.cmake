@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_ProjectNexus_FILE /home/eric/CLionProjects/ProjectNexus/build/ProjectNexus)
+set(__QT_DEPLOY_TARGET_ProjectNexus_TYPE EXECUTABLE)
