@@ -14,10 +14,18 @@ find_package(Qt6 COMPONENTS
         Widgets
         REQUIRED)
 
-add_executable(ProjectNexus src/main.cpp)
+add_executable(
+        ProjectNexus
+        src/main.cpp
+        external/ElaWidgetTools/include/ElaWidgetTools.qrc
+)
+include_directories(
+        external/ElaWidgetTools/include
+)
 target_link_libraries(ProjectNexus
         Qt::Core
         Qt::Gui
         Qt::Widgets
+        ${CMAKE_CURRENT_SOURCE_DIR}/external/ElaWidgetTools/lib/libElaWidgetTools.so
 )
 
